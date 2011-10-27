@@ -56,7 +56,7 @@
       <file leaf-file-name="_comment.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/comments/_comment.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="26" selection-start="163" selection-end="163" vertical-scroll-proportion="-3.2692308">
+            <state line="4" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="-2.6153846">
               <folding />
             </state>
           </provider>
@@ -89,19 +89,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="show.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/recipes/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="40" selection-start="638" selection-end="638" vertical-scroll-proportion="-16.884615">
+            <state line="30" column="43" selection-start="519" selection-end="519" vertical-scroll-proportion="0.6857671">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_form.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/comments/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="12" selection-start="239" selection-end="239" vertical-scroll-proportion="0.31423292">
+            <state line="10" column="18" selection-start="239" selection-end="239" vertical-scroll-proportion="-6.5384617">
               <folding />
             </state>
           </provider>
@@ -754,23 +754,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/comments/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="18" selection-start="239" selection-end="239" vertical-scroll-proportion="-6.5384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/comments/_comment.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="26" selection-start="163" selection-end="163" vertical-scroll-proportion="-3.2692308">
+        <state line="4" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="-2.6153846">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/recipes/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="40" selection-start="638" selection-end="638" vertical-scroll-proportion="-16.884615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/comments/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="12" selection-start="239" selection-end="239" vertical-scroll-proportion="0.31423292">
+        <state line="30" column="43" selection-start="519" selection-end="519" vertical-scroll-proportion="0.6857671">
           <folding />
         </state>
       </provider>
