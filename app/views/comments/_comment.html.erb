@@ -1,7 +1,8 @@
 <!--Partial for displaying a comment -->
 
 <p>
-  <b>Comment:</b>
+  <b>Comment:</b>  <br />
+  <p> Posted <%= time_ago_in_words(comment.created_at) %> ago </p>
   <%= comment.content %>
 </p>
 
