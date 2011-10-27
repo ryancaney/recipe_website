@@ -1,0 +1,12 @@
+<!--Partial for displaying a comment -->
+
+<p>
+  <b>Comment:</b>
+  <%= comment.content %>
+</p>
+
+<p>
+  <%= link_to 'Delete Comment', [comment.recipe, comment],
+              :confirm => 'Are you sure?',
+              :method => :delete %>
+</p>
